@@ -1,6 +1,3 @@
-from itertools import count
-
-
 def CountDNA(s):
     o = []
     o.append(s.count('A'))
